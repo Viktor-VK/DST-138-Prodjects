@@ -1,5 +1,8 @@
 # Prodgect 1. Анализ базы данных резюме c Head Hunter
 
+***Исходные данные по ссылке
+https://drive.google.com/drive/folders/1Mue4mSgGev8moy_KDF8Febc_LKboN0y2
+
 ## Оглавление  
 [1. Описание проекта](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Описание-проекта)  
 [2. Какой кейс решаем?](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Какой-кейс-решаем)  
@@ -20,7 +23,7 @@
 
 **Условия соревнования:**  
 - Каждая часть состоит из блока практических заданий, которые необходимо выполнить в jupyter-ноутбуке.
-- Ноутбук необходимо оформить на основе предоставленного шаблона и [требований](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Требования-к-оформлению-ноутбука).
+- Ноутбук необходимо оформить на основе предоставленного шаблона и требований
 - Отправить свой код ментору для code-ревью. 
 
 **Требования к оформлению ноутбука**     
