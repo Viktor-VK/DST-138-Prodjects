@@ -1,7 +1,7 @@
 # Prodgect 1. Анализ базы данных резюме c Head Hunter
 
-***Исходные данные по ссылке
-https://drive.google.com/drive/folders/1Mue4mSgGev8moy_KDF8Febc_LKboN0y2
+*Исходные данные по ссылке
+https://drive.google.com/drive/folders/1Mue4mSgGev8moy_KDF8Febc_LKboN0y2*
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Описание-проекта)  
