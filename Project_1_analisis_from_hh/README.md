@@ -40,6 +40,6 @@ https://drive.google.com/drive/folders/1Mue4mSgGev8moy_KDF8Febc_LKboN0y2*
 работу с данными и оформление отчетов с помощью средств python 
 
 ### Результаты:  
-[Ноутбук с выполненными заданиями и выводами](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/Project_1_HeadHunter_df.ipynb)
+[Ноутбук с выполненными заданиями и выводами](https://github.com/Viktor-VK/DST-138-Prodjects/blob/main/Project_1_analisis_from_hh/Project_1_analisis_from_hh.ipynb)
 
 :arrow_up:[к оглавлению](https://github.com/Viktor-VK/DST-138-Prodjects/edit/main/Project_1_analisis_from_hh/README.md#Оглавление)
