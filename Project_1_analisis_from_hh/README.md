@@ -4,15 +4,13 @@
 https://drive.google.com/drive/folders/1Mue4mSgGev8moy_KDF8Febc_LKboN0y2*
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Какой-кейс-решаем)  
-[3. Результаты](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Результаты)    
+1. Описание проекта.
+2. Какой кейс решаем?
+3. Результаты.
 
 
 ### Описание проекта    
 Провести обработку данных из базы резюме, выгруженной с сайта поиска вакансий hh.ru.
-
-:arrow_up:[к оглавлению](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -44,4 +42,4 @@ https://drive.google.com/drive/folders/1Mue4mSgGev8moy_KDF8Febc_LKboN0y2*
 ### Результаты:  
 [Ноутбук с выполненными заданиями и выводами](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/Project_1_HeadHunter_df.ipynb)
 
-:arrow_up:[к оглавлению](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Viktor-VK/DST-138-Prodjects/edit/main/Project_1_analisis_from_hh/README.md#Оглавление)
