@@ -84,6 +84,6 @@
 
 
 ### Результаты:  
-[Ноутбук: Создание модели с автоматическими сегментами]([https://github.com/Viktor-VK/DST-138-Prodjects/blob/main/PROJECT-FINAL_Segmentation/Модель_сегментации.ipynb](https://github.com/Viktor-VK/DST-138-Prodjects/blob/main/PROJECT-FINAL_Segmentation/1.%20Модель_сегментации.ipynb))
+[Ноутбук: Создание модели с автоматическими сегментами](https://github.com/Viktor-VK/DST-138-Prodjects/blob/main/PROJECT-FINAL_Segmentation/1.%20Модель_сегментации.ipynb)
 
-[Ноутбук: Классификация нового товара по рассчитанным ранее сегментам]([https://github.com/Viktor-VK/DST-138-Prodjects/blob/main/PROJECT-FINAL_Segmentation/Классификация_по_сегментам.ipynb](https://github.com/Viktor-VK/DST-138-Prodjects/blob/main/PROJECT-FINAL_Segmentation/2.%20Классификация_по_сегментам.ipynb)https://github.com/Viktor-VK/DST-138-Prodjects/blob/main/PROJECT-FINAL_Segmentation/2.%20Классификация_по_сегментам.ipynb)
+[Ноутбук: Классификация нового товара по рассчитанным ранее сегментам](https://github.com/Viktor-VK/DST-138-Prodjects/blob/main/PROJECT-FINAL_Segmentation/2.%20Классификация_по_сегментам.ipynb)
